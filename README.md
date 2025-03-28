@@ -1,4 +1,4 @@
- 🪓 Rock, Paper, Scissors Game ✂️📄
+##  🪓 Rock, Paper, Scissors Game ✂️📄
 
 ## 📜 Description:
 This is a simple **Rock, Paper, Scissors** game built using **HTML**, **CSS**, and **JavaScript**. The player can choose between **Rock**, **Paper**, or **Scissors**, and the computer will randomly select its choice. The game will then determine the winner based on the traditional rules:
